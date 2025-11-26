@@ -2,14 +2,13 @@
   "name": "health-wellness-portal",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://renatojoa.github.io/WellFlowApp",
+  "homepage": "https://renatojoa.github.io/health-wellness-portal",
   "scripts": {
+    "build": "next build && npm run export",
     "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "export": "next export",
     "lint": "eslint .",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d out"
+    "start": "next start"
   },
   "dependencies": {
     "@emotion/is-prop-valid": "latest",
@@ -70,7 +69,7 @@
     "@types/node": "^22",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "gh-pages": "^6.3.0",
+    "gh-pages": "^6.1.0",
     "postcss": "^8.5",
     "tailwindcss": "^4.1.9",
     "tw-animate-css": "1.3.3",
