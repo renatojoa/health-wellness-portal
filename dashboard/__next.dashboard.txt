@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
-2:I[39756,["/health-wellness-portal/_next/static/chunks/42879de7b8087bc9.js"],"default"]
-3:I[37457,["/health-wellness-portal/_next/static/chunks/42879de7b8087bc9.js"],"default"]
-0:{"buildId":"UgANyijuLnEMDdHXb6Wis","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+2:I[39756,["/WellFlowApp/_next/static/chunks/42879de7b8087bc9.js"],"default"]
+3:I[37457,["/WellFlowApp/_next/static/chunks/42879de7b8087bc9.js"],"default"]
+0:{"buildId":"uWoArdBKOkt34mXnHRvih","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

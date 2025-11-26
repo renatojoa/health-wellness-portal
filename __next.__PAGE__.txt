@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[47257,["/health-wellness-portal/_next/static/chunks/42879de7b8087bc9.js"],"ClientPageRoot"]
-3:I[31713,["/health-wellness-portal/_next/static/chunks/0c6932420e96e619.js","/health-wellness-portal/_next/static/chunks/54da7305947dc3e9.js","/health-wellness-portal/_next/static/chunks/db1de5e5506628a5.js"],"default"]
-6:I[97367,["/health-wellness-portal/_next/static/chunks/42879de7b8087bc9.js"],"OutletBoundary"]
+2:I[47257,["/WellFlowApp/_next/static/chunks/42879de7b8087bc9.js"],"ClientPageRoot"]
+3:I[31713,["/WellFlowApp/_next/static/chunks/0c6932420e96e619.js","/WellFlowApp/_next/static/chunks/54da7305947dc3e9.js","/WellFlowApp/_next/static/chunks/db1de5e5506628a5.js"],"default"]
+6:I[97367,["/WellFlowApp/_next/static/chunks/42879de7b8087bc9.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"UgANyijuLnEMDdHXb6Wis","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/health-wellness-portal/_next/static/chunks/54da7305947dc3e9.js","async":true}],["$","script","script-1",{"src":"/health-wellness-portal/_next/static/chunks/db1de5e5506628a5.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"uWoArdBKOkt34mXnHRvih","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/WellFlowApp/_next/static/chunks/54da7305947dc3e9.js","async":true}],["$","script","script-1",{"src":"/WellFlowApp/_next/static/chunks/db1de5e5506628a5.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
