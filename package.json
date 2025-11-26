@@ -4,11 +4,11 @@
   "private": true,
   "homepage": "https://renatojoa.github.io/health-wellness-portal",
   "scripts": {
-    "build": "next build && npm run export",
     "dev": "next dev",
-    "export": "next export",
-    "lint": "eslint .",
-    "start": "next start"
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "deploy": "npm run build && npx gh-pages -d out"
   },
   "dependencies": {
     "@emotion/is-prop-valid": "latest",
